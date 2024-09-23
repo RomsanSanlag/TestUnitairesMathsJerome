@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "se7lNdg/Dtg=",
+  "dgSpecHash": "oRKpveKUxzA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Home\\RiderProjects\\TuMaths3D\\TuMaths3D.csproj",
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\TestUnitairesMathsJerome\\TuMaths3D.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
