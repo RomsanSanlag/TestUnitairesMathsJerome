@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d534c68_002D8ebd_002D4131_002D9d05_002De007532a1db5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Tests03IdentityMatrices.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests03IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cbe2e174_002D37bf_002D4787_002Db5c8_002De71ad42db876/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Tests02CopyAndModifyMatrices.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests02CopyAndModifyMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests03IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
