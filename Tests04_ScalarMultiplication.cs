@@ -2,7 +2,6 @@
 
 namespace Maths_Matrices.Tests
 {
-    //TestGit
     [TestFixture]
     public class Tests04_ScalarMultiplication
     {
@@ -81,7 +80,7 @@ namespace Maths_Matrices.Tests
                 { 7, 8, 9 }
             }));
 
-            MatrixInt m4 = 4 * m;
+            MatrixInt m4 = m * 4;
             
             Assert.That(m4.ToArray2D(), Is.EqualTo(new[,]
             {

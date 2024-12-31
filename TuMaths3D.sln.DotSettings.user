@@ -1,12 +1,30 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d534c68_002D8ebd_002D4131_002D9d05_002De007532a1db5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Tests03IdentityMatrices.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests03IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6bb32251_002D33d8_002D4f72_002D9510_002Db355213ce7b7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestScalarMultiplicationOperator #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests04_ScalarMultiplication.TestScalarMultiplicationOperator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests04_ScalarMultiplication.TestScalarMultiplicationStatic&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests04_ScalarMultiplication.TestNegativeMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests05_MatricesAddAndSubtract.TestSumMatricesInstances&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests05_MatricesAddAndSubtract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests06_MatricesMultiplication.TestMatricesMultiplicationInstance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests06_MatricesMultiplication&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests07_TransposeMatrices.TestTransposeMatrixInstance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests07_TransposeMatrices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests08_ElementaryOperations.TestSwapLines&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests08_ElementaryOperations&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests09_AugmentedMatricesAndSplit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests12_SubMatrices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests13_Determinants&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests14_AdjugateMatrices&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	
-	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cbe2e174_002D37bf_002D4787_002Db5c8_002De71ad42db876/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Tests02CopyAndModifyMatrices.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests02CopyAndModifyMatrices.cs&lt;/ProjectFile&gt;&#xD;
-    &lt;ProjectFile&gt;B0686EC5-61A1-44A8-ADEF-6C29141BF233/f:Tests03IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d64066b_002Da9ad_002D47f2_002Da60d_002Dac9c4b1ad6cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests04_ScalarMultiplication" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests04_ScalarMultiplication&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b840d257_002D90e0_002D4e1e_002D8d85_002D2c3d74f06f3b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestScalarMultiplicationOperator" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B0686EC5-61A1-44A8-ADEF-6C29141BF233::net8.0::Maths_Matrices.Tests.Tests04_ScalarMultiplication.TestScalarMultiplicationOperator&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
